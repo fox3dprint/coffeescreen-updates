@@ -2,10 +2,10 @@
   "schema": 1,
   "board": "E32R28T-ESP32",
   "channel": "trial",
-  "release": 1604,
-  "version": "0.16.4-diagnostic",
-  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/ScreenLink-0.16.4-diagnostic.slota",
-  "notes": "نسخة تشخيص لاختبار التحديث عبر الإنترنت وفحص فشل البلوتوث. تعرض BLE stage / error في صفحة الماكينات وتسجل مرحلة الاتصال. لا تدعي إصلاح مشكلة البلوتوث. بعد إعادة التشغيل افحص الشاشة والوصفات ثم اعتمد الإصدار خلال خمس دقائق إذا أردت إبقاءه. إصلاح مكدس الإقلاع 0.16.3 مضمن.",
-  "sha256": "57bf72ff93e12455a5b29f19ea14dd15876412efe0b7fe466656cc990fbb0a6c",
-  "size": 1694928
+  "release": 1605,
+  "version": "0.16.5-trial",
+  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/ScreenLink-0.16.5-trial.slota",
+  "notes": "نسخة توافق تجريبية: تحديث مكتبة البلوتوث وإجراء تفاوض حجم الحزم بعد اكتشاف الخدمة. تمنع إرسال الأوامر إذا فشل التفاوض. نجاح الاتصال الفعلي يحتاج تجربة الماكينة. اعتمد الإصدار خلال خمس دقائق بعد فحص الشاشة والوصفات.",
+  "sha256": "ed19833acaa0ef1fadff587ab1b74fec088d0f3ded35deec571eec097815b65f",
+  "size": 1697296
 }
