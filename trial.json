@@ -2,10 +2,10 @@
   "schema": 1,
   "board": "E32R28T-ESP32",
   "channel": "trial",
-  "release": 1613,
-  "version": "0.16.13-trial",
-  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/ScreenLink-0.16.13-trial.slota",
-  "notes": "تغيير اسم الماكينة إلى الاكسبلوم في نصوص الشاشة والأزرار والتنبيهات، مع الاحتفاظ بميزات فحص الجهاز والوصفة السريعة. جرّب واعتمد النسخة خلال15دقيقة.",
-  "sha256": "cdb4b3d9955ba593883049dd923782f88a17ce55d286f469a22d091bb732cabf",
-  "size": 1735456
+  "release": 1614,
+  "version": "0.16.14-trial",
+  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/ScreenLink-0.16.14-trial.slota",
+  "notes": "شاشة ترحيب باسم CoffeeScreen وعبارة قهوتك على ذوقك. فحص تلقائي لمعلومات الإصدار بعد دقيقة اتصال ثم يوميًا وقت الخمول، مع تنبيه عند توفر تحديث. التنزيل والتثبيت بموافقتك فقط. جرّب واعتمد خلال15دقيقة.",
+  "sha256": "6d8f0f7b042f7f240c68442f4a7220595e671d4da810522781079451cda2d4c8",
+  "size": 1742528
 }
