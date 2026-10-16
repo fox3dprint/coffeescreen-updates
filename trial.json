@@ -2,10 +2,10 @@
   "schema": 1,
   "board": "E32R28T-ESP32",
   "channel": "trial",
-  "release": 1614,
-  "version": "0.16.14-trial",
-  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/ScreenLink-0.16.14-trial.slota",
-  "notes": "شاشة ترحيب باسم CoffeeScreen وعبارة قهوتك على ذوقك. فحص تلقائي لمعلومات الإصدار بعد دقيقة اتصال ثم يوميًا وقت الخمول، مع تنبيه عند توفر تحديث. التنزيل والتثبيت بموافقتك فقط. جرّب واعتمد خلال15دقيقة.",
-  "sha256": "6d8f0f7b042f7f240c68442f4a7220595e671d4da810522781079451cda2d4c8",
-  "size": 1742528
+  "release": 1615,
+  "version": "0.16.15-trial",
+  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/ScreenLink-0.16.15-trial.slota",
+  "notes": "شعار FOX 3D وترحيب «قهوتك على ذوقك». دليل سريع، رقم دعم للجهاز، إعادة ضبط الشبكة أو ربط الاكسبلوم بشكل منفصل مع بقاء الوصفات. بدء التحضير بضغط متواصل لمدة ثانية ونصف، ووضع عرض يمنع إرسال أوامر. نسخ الوصفات دون إعدادات الشبكة، وسجل نتيجة التحديث، وقائمة فحص يدوي قبل التسليم. جرّب واعتمد النسخة خلال ١٥ دقيقة.",
+  "sha256": "c619ffe6cec1fb20c27ed74184d3383dc4fb8448355694e8283a67ad303e3ce5",
+  "size": 1765344
 }
