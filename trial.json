@@ -2,10 +2,10 @@
   "schema": 1,
   "board": "E32R28T-ESP32",
   "channel": "trial",
-  "release": 1608,
-  "version": "0.16.8-trial",
-  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/ScreenLink-0.16.8-trial.slota",
-  "notes": "إضافة شريط تقدم ونسبة على الشاشة، ومراحل عربية للتجهيز والتثبيت والتحقق وإعادة التشغيل. يظهر في التحديثات التالية بعد تثبيت هذه النسخة. اتصال البلوتوث ما زال قيد الفحص. افحص الجهاز واعتمد الإصدار خلال خمس دقائق.",
-  "sha256": "805a3d14786d2fee21126503336d1c4da35833799161da781aaf05da18d45185",
-  "size": 1701856
+  "release": 1609,
+  "version": "0.16.9-trial",
+  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/ScreenLink-0.16.9-trial.slota",
+  "notes": "اعتماد النسخة والرجوع من الشاشة نفسها، مع عداد 15 دقيقة. زر تصفير محلي للوزن المعروض بجانب الميزان، دون تغيير ميزان الماكينة. شريط تقدم التحديث مضمن. افحص الجهاز واعتمد من الشاشة؛ اتصال البلوتوث المتقطع ما زال قيد الفحص.",
+  "sha256": "166863bccf02dcac9b69b80f666497fdcda5081558002c5ad0a0f002ff574c6b",
+  "size": 1706560
 }
