@@ -2,10 +2,10 @@
   "schema": 1,
   "board": "E32R28T-ESP32",
   "channel": "trial",
-  "release": 1603,
-  "version": "0.16.3-trial",
-  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/ScreenLink-0.16.3-trial.slota",
-  "notes": "إصلاح تجاوز مكدس loopTask أثناء تحميل الوصفات عند الإقلاع. زيادة المكدس إلى 16KB وتقليل مساحة إنشاء فهرس الوصفات. إذا كانت الشاشة تعيد التشغيل باستمرار، استخدم إصلاح USB المحلي. نجح البناء والاختبار البرمجي؛ تأكيد الإصلاح على الشاشة ما زال مطلوبًا.",
-  "sha256": "de9af0bd13069709eb980dee8845d1e067974b2dd9629e7a02e0f25cb248639b",
-  "size": 1694432
+  "release": 1604,
+  "version": "0.16.4-diagnostic",
+  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/ScreenLink-0.16.4-diagnostic.slota",
+  "notes": "نسخة تشخيص لاختبار التحديث عبر الإنترنت وفحص فشل البلوتوث. تعرض BLE stage / error في صفحة الماكينات وتسجل مرحلة الاتصال. لا تدعي إصلاح مشكلة البلوتوث. بعد إعادة التشغيل افحص الشاشة والوصفات ثم اعتمد الإصدار خلال خمس دقائق إذا أردت إبقاءه. إصلاح مكدس الإقلاع 0.16.3 مضمن.",
+  "sha256": "57bf72ff93e12455a5b29f19ea14dd15876412efe0b7fe466656cc990fbb0a6c",
+  "size": 1694928
 }
