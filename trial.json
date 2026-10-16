@@ -2,10 +2,10 @@
   "schema": 1,
   "board": "E32R28T-ESP32",
   "channel": "trial",
-  "release": 1609,
-  "version": "0.16.9-trial",
-  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/ScreenLink-0.16.9-trial.slota",
-  "notes": "اعتماد النسخة والرجوع من الشاشة نفسها، مع عداد 15 دقيقة. زر تصفير محلي للوزن المعروض بجانب الميزان، دون تغيير ميزان الماكينة. شريط تقدم التحديث مضمن. افحص الجهاز واعتمد من الشاشة؛ اتصال البلوتوث المتقطع ما زال قيد الفحص.",
-  "sha256": "166863bccf02dcac9b69b80f666497fdcda5081558002c5ad0a0f002ff574c6b",
-  "size": 1706560
+  "release": 1610,
+  "version": "0.16.10-trial",
+  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/ScreenLink-0.16.10-trial.slota",
+  "notes": "تقليل حجز صفحة الجوال بسبب الاتصالات الخاملة إلى 1.2 ثانية، دون تغيير مهلة رفع الملفات. يتضمن اعتماد النسخة من الشاشة وتصفير القراءة وشريط التقدم. جرّب فتح الصفحة ثم اعتمد النسخة خلال 15 دقيقة.",
+  "sha256": "fb7bc6da08a0667c6d9cb71dd40fc0113ff863ba2b8cf32d9c5e01fc8cadba3f",
+  "size": 1706704
 }
