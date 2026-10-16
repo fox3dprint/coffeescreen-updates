@@ -1,6 +1,7 @@
 fb7bc6da08a0667c6d9cb71dd40fc0113ff863ba2b8cf32d9c5e01fc8cadba3f  ScreenLink-0.16.10-trial.slota
 6db27f489ad48d37c17653c58c5d729956df2fdc277622c1bfd3b702ec5d77b1  ScreenLink-0.16.11-trial.slota
 3b4888c3b3d77b4894038aba0099e8b035504590b8c86caa19bd28dde9651ad1  ScreenLink-0.16.12-trial.slota
+cdb4b3d9955ba593883049dd923782f88a17ce55d286f469a22d091bb732cabf  ScreenLink-0.16.13-trial.slota
 30b142c79b66af3b279dd794ec7fb399c14b998917e3ed189eece12f8a264853  ScreenLink-0.16.2-trial.slota
 de9af0bd13069709eb980dee8845d1e067974b2dd9629e7a02e0f25cb248639b  ScreenLink-0.16.3-trial.slota
 57bf72ff93e12455a5b29f19ea14dd15876412efe0b7fe466656cc990fbb0a6c  ScreenLink-0.16.4-diagnostic.slota

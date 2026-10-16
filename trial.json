@@ -2,10 +2,10 @@
   "schema": 1,
   "board": "E32R28T-ESP32",
   "channel": "trial",
-  "release": 1612,
-  "version": "0.16.12-trial",
-  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/ScreenLink-0.16.12-trial.slota",
-  "notes": "فحص الجهاز داخل الإعدادات وتقرير دعم من الجوال: شبكة وذاكرة وسلامة ملفات الوصفات ولقطة البلوتوث وسبب الإقلاع. فحص خدمة التحديث يدوي دون تثبيت. التقرير يستبعد كلمات المرور والوصفات والمعرّفات. اختبر ثم اعتمد النسخة خلال15دقيقة.",
-  "sha256": "3b4888c3b3d77b4894038aba0099e8b035504590b8c86caa19bd28dde9651ad1",
-  "size": 1734896
+  "release": 1613,
+  "version": "0.16.13-trial",
+  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/ScreenLink-0.16.13-trial.slota",
+  "notes": "تغيير اسم الماكينة إلى الاكسبلوم في نصوص الشاشة والأزرار والتنبيهات، مع الاحتفاظ بميزات فحص الجهاز والوصفة السريعة. جرّب واعتمد النسخة خلال15دقيقة.",
+  "sha256": "cdb4b3d9955ba593883049dd923782f88a17ce55d286f469a22d091bb732cabf",
+  "size": 1735456
 }
