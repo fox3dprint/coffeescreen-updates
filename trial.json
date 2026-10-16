@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "board": "E32R28T-ESP32",
+  "channel": "trial",
+  "release": 1602,
+  "version": "0.16.2-trial",
+  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/ScreenLink-0.16.2-trial.slota",
+  "notes": "إضافة البحث عن تحديث من مستودع fox3dprint دون لصق روابط.\nإضافة مدخل تحديث الجهاز في صيانة الشاشة يفتح صفحة الجوال عبر QR.\nتثبيت بتأكيد المستخدم مع التحقق من توقيع الملف.\nنسخة تجريبية: اختبار OTA الفعلي والرجوع على الجهاز لم يكتمل بعد.",
+  "sha256": "30b142c79b66af3b279dd794ec7fb399c14b998917e3ed189eece12f8a264853",
+  "size": 1694480
+}
