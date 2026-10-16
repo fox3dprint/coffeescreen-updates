@@ -2,10 +2,10 @@
   "schema": 1,
   "board": "E32R28T-ESP32",
   "channel": "trial",
-  "release": 1610,
-  "version": "0.16.10-trial",
-  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/ScreenLink-0.16.10-trial.slota",
-  "notes": "تقليل حجز صفحة الجوال بسبب الاتصالات الخاملة إلى 1.2 ثانية، دون تغيير مهلة رفع الملفات. يتضمن اعتماد النسخة من الشاشة وتصفير القراءة وشريط التقدم. جرّب فتح الصفحة ثم اعتمد النسخة خلال 15 دقيقة.",
-  "sha256": "fb7bc6da08a0667c6d9cb71dd40fc0113ff863ba2b8cf32d9c5e01fc8cadba3f",
-  "size": 1706704
+  "release": 1611,
+  "version": "0.16.11-trial",
+  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/ScreenLink-0.16.11-trial.slota",
+  "notes": "زر وصفتي السريعة يفتح تفاصيل الوصفة المختارة قبل الإرسال. خيار الخط الكبير لأسماء الوصفات والأزرار حسب المساحة، مع وصفتين في الصفحة. افحص الجهاز واعتمد النسخة من الشاشة خلال15دقيقة.",
+  "sha256": "6db27f489ad48d37c17653c58c5d729956df2fdc277622c1bfd3b702ec5d77b1",
+  "size": 1749248
 }
