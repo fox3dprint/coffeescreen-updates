@@ -2,10 +2,10 @@
   "schema": 1,
   "board": "E32R28T-ESP32",
   "channel": "trial",
-  "release": 1611,
-  "version": "0.16.11-trial",
-  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/ScreenLink-0.16.11-trial.slota",
-  "notes": "زر وصفتي السريعة يفتح تفاصيل الوصفة المختارة قبل الإرسال. خيار الخط الكبير لأسماء الوصفات والأزرار حسب المساحة، مع وصفتين في الصفحة. افحص الجهاز واعتمد النسخة من الشاشة خلال15دقيقة.",
-  "sha256": "6db27f489ad48d37c17653c58c5d729956df2fdc277622c1bfd3b702ec5d77b1",
-  "size": 1749248
+  "release": 1612,
+  "version": "0.16.12-trial",
+  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/ScreenLink-0.16.12-trial.slota",
+  "notes": "فحص الجهاز داخل الإعدادات وتقرير دعم من الجوال: شبكة وذاكرة وسلامة ملفات الوصفات ولقطة البلوتوث وسبب الإقلاع. فحص خدمة التحديث يدوي دون تثبيت. التقرير يستبعد كلمات المرور والوصفات والمعرّفات. اختبر ثم اعتمد النسخة خلال15دقيقة.",
+  "sha256": "3b4888c3b3d77b4894038aba0099e8b035504590b8c86caa19bd28dde9651ad1",
+  "size": 1734896
 }
