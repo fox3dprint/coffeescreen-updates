@@ -2,10 +2,10 @@
   "schema": 1,
   "board": "E32R28T-ESP32",
   "channel": "trial",
-  "release": 1615,
-  "version": "0.16.15-trial",
-  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/ScreenLink-0.16.15-trial.slota",
-  "notes": "شعار FOX 3D وترحيب «قهوتك على ذوقك». دليل سريع، رقم دعم للجهاز، إعادة ضبط الشبكة أو ربط الاكسبلوم بشكل منفصل مع بقاء الوصفات. بدء التحضير بضغط متواصل لمدة ثانية ونصف، ووضع عرض يمنع إرسال أوامر. نسخ الوصفات دون إعدادات الشبكة، وسجل نتيجة التحديث، وقائمة فحص يدوي قبل التسليم. جرّب واعتمد النسخة خلال ١٥ دقيقة.",
-  "sha256": "c619ffe6cec1fb20c27ed74184d3383dc4fb8448355694e8283a67ad303e3ce5",
-  "size": 1765344
+  "release": 1616,
+  "version": "0.16.16-trial",
+  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/ScreenLink-0.16.16-trial.slota",
+  "notes": "عداد مدة التشغيل منذ الإقلاع داخل الإعدادات ← فحص الجهاز بصيغة ساعات:دقائق:ثوانٍ، مع سبب آخر إعادة تشغيل بالعربية. يتحدث كل ثانية دون إعادة رسم الصفحة كاملة. جرّب واعتمد النسخة خلال ١٥ دقيقة.",
+  "sha256": "378ab9669f4d602e05874190cfb080474f02fa6a0d71fd177d77c05f566f2592",
+  "size": 1768128
 }
