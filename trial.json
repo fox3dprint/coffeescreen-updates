@@ -2,10 +2,10 @@
   "schema": 1,
   "board": "E32R28T-ESP32",
   "channel": "trial",
-  "release": 1607,
-  "version": "0.16.7-trial",
-  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/ScreenLink-0.16.7-trial.slota",
-  "notes": "تشخيص واضح: رقم النسخة أسفل الرئيسية ورمز آخر فشل بلوتوث فوق الميزان. يشمل إصلاح التنزيل السابق. جرّب الاتصال وصوّر الرئيسية عند الفشل. ليست نسخة تؤكد إصلاح الاتصال. اعتمد الإصدار خلال خمس دقائق إذا أردت إبقاءه.",
-  "sha256": "9bcb19ea4400ff9b915eaa4564594ecfc4fadb8584ed35658e387029c8f6b39b",
-  "size": 1698048
+  "release": 1608,
+  "version": "0.16.8-trial",
+  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/ScreenLink-0.16.8-trial.slota",
+  "notes": "إضافة شريط تقدم ونسبة على الشاشة، ومراحل عربية للتجهيز والتثبيت والتحقق وإعادة التشغيل. يظهر في التحديثات التالية بعد تثبيت هذه النسخة. اتصال البلوتوث ما زال قيد الفحص. افحص الجهاز واعتمد الإصدار خلال خمس دقائق.",
+  "sha256": "805a3d14786d2fee21126503336d1c4da35833799161da781aaf05da18d45185",
+  "size": 1701856
 }
