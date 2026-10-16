@@ -2,10 +2,10 @@
   "schema": 1,
   "board": "E32R28T-ESP32",
   "channel": "trial",
-  "release": 1605,
-  "version": "0.16.5-trial",
-  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/ScreenLink-0.16.5-trial.slota",
-  "notes": "نسخة توافق تجريبية: تحديث مكتبة البلوتوث وإجراء تفاوض حجم الحزم بعد اكتشاف الخدمة. تمنع إرسال الأوامر إذا فشل التفاوض. نجاح الاتصال الفعلي يحتاج تجربة الماكينة. اعتمد الإصدار خلال خمس دقائق بعد فحص الشاشة والوصفات.",
-  "sha256": "ed19833acaa0ef1fadff587ab1b74fec088d0f3ded35deec571eec097815b65f",
-  "size": 1697296
+  "release": 1606,
+  "version": "0.16.6-trial",
+  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/ScreenLink-0.16.6-trial.slota",
+  "notes": "إصلاح رأس الملف غير مكتمل عند تأخر بيانات التنزيل. يتضمن توافق البلوتوث 0.16.5. إذا رفضت النسخة القديمة التنزيل، نزّل الملف للجوال واستخدم تحديث من ملف. افحص الجهاز واعتمد الإصدار خلال خمس دقائق.",
+  "sha256": "3dbaf14df0242e4a39b1c6ec53fea27e03b2d51dc07c3d9b8cad3d931c2c881e",
+  "size": 1697728
 }
