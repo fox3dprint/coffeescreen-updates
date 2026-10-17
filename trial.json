@@ -2,10 +2,10 @@
   "schema": 1,
   "board": "E32R28T-ESP32",
   "channel": "trial",
-  "release": 1619,
-  "version": "0.16.19-trial",
-  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/ScreenLink-0.16.19-trial.slota",
-  "notes": "تصحيح نتيجة إلغاء التجهيز: إذا أكدت حالة حديثة أن الاكسبلوم مستعد، يمكن اختيار وصفة أخرى دون إرسال إلغاء زائد. عنوان مستقل لإلغاء التجهيز. يحتفظ بإصلاحات الاتصال والعرض؛ جرّب واعتمد خلال ١٥ دقيقة.",
-  "sha256": "50a5ea957b61194e653cc5c0c8ee448d4aa0f72e2add6895ff7b15a23ccc5c2c",
-  "size": 1767456
+  "release": 1620,
+  "version": "0.16.20-trial",
+  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/ScreenLink-0.16.20-trial.slota",
+  "notes": "إضافة رمز الواي فاي أعلى يسار الصفحة الرئيسية: ثلاث درجات لقوة الإشارة وخط أحمر عند الانقطاع. يعكس الاتصال بالراوتر وليس توفر الإنترنت. يحتفظ بإصلاح الإلغاء والاتصال. جرّب واعتمد خلال ١٥ دقيقة.",
+  "sha256": "f13af6000e0bd0f9d280b74c9b65b1aa74eadb7512962e6458efcfc2b0b40a94",
+  "size": 1767872
 }
