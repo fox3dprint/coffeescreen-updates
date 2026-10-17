@@ -2,10 +2,10 @@
   "schema": 1,
   "board": "E32R28T-ESP32",
   "channel": "trial",
-  "release": 1618,
-  "version": "0.16.18-trial",
-  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/ScreenLink-0.16.18-trial.slota",
-  "notes": "تحسين تفاصيل الصبات بأرقام أكبر وأربع صبات في الصفحة مع السابق والتالي. توضيح أن إلغاء الموعد يبقي الوصفة مجهزة، وتصحيح شرح نتائج التحديث ولقطة البلوتوث في تقرير الدعم. يحتفظ بإصلاح اتصال البلوتوث وعداد التشغيل. جرّب واعتمد خلال ١٥ دقيقة.",
-  "sha256": "768996218f4c710ae0ccf8f3533b80cb18f48c5515dddf5a287d289bf1c2f5b9",
-  "size": 1766416
+  "release": 1619,
+  "version": "0.16.19-trial",
+  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/ScreenLink-0.16.19-trial.slota",
+  "notes": "تصحيح نتيجة إلغاء التجهيز: إذا أكدت حالة حديثة أن الاكسبلوم مستعد، يمكن اختيار وصفة أخرى دون إرسال إلغاء زائد. عنوان مستقل لإلغاء التجهيز. يحتفظ بإصلاحات الاتصال والعرض؛ جرّب واعتمد خلال ١٥ دقيقة.",
+  "sha256": "50a5ea957b61194e653cc5c0c8ee448d4aa0f72e2add6895ff7b15a23ccc5c2c",
+  "size": 1767456
 }
