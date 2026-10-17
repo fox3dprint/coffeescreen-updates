@@ -2,10 +2,10 @@
   "schema": 1,
   "board": "E32R28T-ESP32",
   "channel": "trial",
-  "release": 1617,
-  "version": "0.16.17-trial",
-  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/ScreenLink-0.16.17-trial.slota",
-  "notes": "إصلاح تحرير اتصال البلوتوث عند الانتقال لصفحة الجوال والرجوع للاكسبلوم، لمنع تراكم الاتصالات وخطأ Client allocation failed. يحتفظ بعداد التشغيل. جرّب واعتمد النسخة خلال ١٥ دقيقة.",
-  "sha256": "d38ae00007a5f1e7134a2a56e6309b4c948826a0fdc6bed17c4f677652268c59",
-  "size": 1768224
+  "release": 1618,
+  "version": "0.16.18-trial",
+  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/ScreenLink-0.16.18-trial.slota",
+  "notes": "تحسين تفاصيل الصبات بأرقام أكبر وأربع صبات في الصفحة مع السابق والتالي. توضيح أن إلغاء الموعد يبقي الوصفة مجهزة، وتصحيح شرح نتائج التحديث ولقطة البلوتوث في تقرير الدعم. يحتفظ بإصلاح اتصال البلوتوث وعداد التشغيل. جرّب واعتمد خلال ١٥ دقيقة.",
+  "sha256": "768996218f4c710ae0ccf8f3533b80cb18f48c5515dddf5a287d289bf1c2f5b9",
+  "size": 1766416
 }
