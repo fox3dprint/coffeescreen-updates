@@ -2,10 +2,10 @@
   "schema": 1,
   "board": "E32R28T-ESP32",
   "channel": "stable",
-  "release": 10001,
-  "version": "1.0.1 (اختبار OTA)",
-  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/CoffeeScreen-1.0.1-ota-test.slota",
-  "notes": "اختبار تنزيل وتثبيت التحديث عبر الواي فاي فقط. لا تغييرات وظيفية؛ بعد نجاح الاختبار سنعيد قناة الاستقرار إلى الإصدار الرسمي 1.0.0.",
-  "sha256": "6874d4310278c9f1a5ab1e744a32be758376078fd5d790d72a72ea4b332bc61b",
+  "release": 10000,
+  "version": "1.0.0",
+  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/CoffeeScreen-1.0.0.slota",
+  "notes": "إصدار FOX 1.0.0: رمز دليل الاستخدام في المساعدة السريعة، وقناة التحديثات المستقرة. يحتفظ بإعدادات الجهاز والوصفات. يلزم اختبار الجهاز واعتماد النسخة خلال 15 دقيقة.",
+  "sha256": "299ab3e12371c9f0f99ee0934a5a3ffea5f659a23e6c38a634e0f3475f31e57c",
   "size": 1768144
 }
