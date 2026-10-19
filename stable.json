@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "board": "E32R28T-ESP32",
+  "channel": "stable",
+  "release": 10000,
+  "version": "1.0.0",
+  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/CoffeeScreen-1.0.0.slota",
+  "notes": "إصدار FOX 1.0.0: رمز دليل الاستخدام في المساعدة السريعة، وقناة التحديثات المستقرة. يحتفظ بإعدادات الجهاز والوصفات. يلزم اختبار الجهاز واعتماد النسخة خلال 15 دقيقة.",
+  "sha256": "299ab3e12371c9f0f99ee0934a5a3ffea5f659a23e6c38a634e0f3475f31e57c",
+  "size": 1768144
+}
