@@ -2,10 +2,10 @@
   "schema": 1,
   "board": "E32R28T-ESP32",
   "channel": "stable",
-  "release": 20014,
-  "version": "2.0.14",
-  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/CoffeeScreen-2.0.14.slota",
-  "notes": "تحسين اتصال xBloom وقراءة حالة الماكينة، شاشة بداية FOX، عرض مراحل التحضير والصبات والميزان، وتحسين حفظ الوصفات.",
-  "sha256": "a59561458b790e12a5091c869320e9afcb5a7f61b17415f26e395fb27c200ec6",
-  "size": 1761792
+  "release": 0,
+  "version": "paused",
+  "url": "",
+  "notes": "تم إيقاف التحديث مؤقتًا للمراجعة.",
+  "sha256": "",
+  "size": 0
 }
