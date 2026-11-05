@@ -2,10 +2,10 @@
   "schema": 1,
   "board": "E32R28T-ESP32",
   "channel": "stable",
-  "release": 20015,
-  "version": "2.0.15",
-  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/CoffeeScreen-2.0.15-v1fix.slota",
-  "notes": "إصلاح توافق شاشة ون: اتجاه الشاشة الصحيح وتسلسل اتصال xBloom المحسن.",
-  "sha256": "c2e86e5e6938b4eaff82120d774c2e9684d954d0118d6127ffe5347647044455",
-  "size": 1760896
+  "release": 0,
+  "version": "paused",
+  "url": "",
+  "notes": "تم إيقاف التحديث مؤقتًا لحل توافق شاشة ون.",
+  "sha256": "",
+  "size": 0
 }
