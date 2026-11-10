@@ -2,10 +2,10 @@
   "schema": 1,
   "board": "E32R28T-ESP32",
   "channel": "v2-test",
-  "release": 20027,
-  "version": "2.0.27 V2-ST7789",
-  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/CoffeeScreen-2.0.27-V2-ST7789.slota",
-  "notes": "إصلاح موثوقية إرسال وصفات xBloom لشاشة تو فقط. لا يثبت على شاشة ون أو ثري.",
-  "sha256": "539e7683cea3d3620a211d338050d821cdf92c54d45d24a6e8c39c3e2f369e40",
-  "size": 1763184
+  "release": 20028,
+  "version": "2.0.28 V2-ST7789",
+  "url": "https://raw.githubusercontent.com/fox3dprint/coffeescreen-updates/main/CoffeeScreen-2.0.28-V2-ST7789.slota",
+  "notes": "إصلاح حالة 0x41 في xBloom J15 عند تحميل الوصفة لشاشة تو فقط. لا يثبت على شاشة ون أو ثري.",
+  "sha256": "e6264f583581cd9db5e800bebc3990ecd010baf5d5cc1c1fee7b3b429ce5b4be",
+  "size": 1763200
 }
